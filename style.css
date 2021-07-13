@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1,
+nav,
+figure {text-align: center;
+  border: white;
+
+}
+
+nav > a {padding: 10px;
+  background-color: springgreen;
+
+}
+
+
+section > p {text-align: center;
+  font-size: medium;
+  width: 800px;
+  margin: auto;
+  padding: 10px 0;
+
+}
+
+
+div {float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+
+}
